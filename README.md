@@ -28,3 +28,4 @@
 - 상품 메인, 상세 페이지, 카테고리 페이지
 - 1대1 문의 CRUD
 - 결제 페이지
+![q](https://user-images.githubusercontent.com/97496488/187617212-ae2db30b-8680-4d93-9a90-7d251aceb7d5.jpg)
