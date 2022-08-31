@@ -23,7 +23,7 @@
 - **Server** : Apache Tomcat (v8.5)
 - **Database** : Oracle DB(11xe)
 
-## 💡 주요 기능
+## 💡 주요 기능 <a href="https://github.com/jeonsungdeok/JSP_Project/wiki" >상세보기 - WIKI 
 - 회원가입, 로그인, 마이 페이지 (로그인,마이 페이지에 주소api 구현)
 - 상품 메인, 상세 페이지, 카테고리 페이지
 - 1대1 문의 CRUD
